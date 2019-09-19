@@ -16,8 +16,10 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path, include
 from stackapp import urls
+from stackapp.views import index
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-	path('', include(urls)),
+    path('', index, name="index"),
+	path('api/', include(urls)),
 ]

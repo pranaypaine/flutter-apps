@@ -7,7 +7,7 @@ router = routers.DefaultRouter()
 router.register("questions", QuestionAPI)
 
 urlpatterns = [
-    path('', index, name="index"),
-    path('api', include(router.urls)),
+    
+    path('', include(router.urls)),
     path('latest', latest, name="latest"),
 ]
