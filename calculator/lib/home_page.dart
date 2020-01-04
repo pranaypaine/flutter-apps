@@ -8,8 +8,8 @@ class HomePage extends StatefulWidget {
 class HomePageState extends State<HomePage> {
   var num1 = 0, num2 = 0, sum = 0;
 
-  final TextEditingController t1 = new TextEditingController(text: "0");
-  final TextEditingController t2 = new TextEditingController(text: "0");
+  final TextEditingController t1 = new TextEditingController(text: "");
+  final TextEditingController t2 = new TextEditingController(text: "");
 
   void doAddition() {
     setState(() {
@@ -45,8 +45,8 @@ class HomePageState extends State<HomePage> {
 
   void doClear() {
     setState(() {
-      t1.text = "0";
-      t2.text = "0";
+      t1.text = "";
+      t2.text = "";
     });
   }
 
