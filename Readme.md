@@ -5,7 +5,6 @@
 ## First stage
 | Sr no. | Title | link |
 | ----- | ----- | ----- |
-
 | 1. | Basics VSCode Extensions (Optional) | [Youtube](https://youtu.be/Nl2kmAbC0bg) |
 | 2. | Dart Basics (Must) | [Youtube](https://youtu.be/0CTj3x6jgeY) |
 | 3. | Calculator App | [Youtube](https://youtu.be/Ss1HkZ3LnRY) |
