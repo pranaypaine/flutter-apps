@@ -43,6 +43,32 @@
 | 28. | Flutter With Firebase (Updated Series coming soon) | [Youtube](https://www.youtube.com/playlist?list=PLR2qQy0Zxs_VVyTb04FzZ2_lnhSB4rAI-) |
 | 29. | Flutter Wallpaper App (Learn to deploy to stores) (Must) | [Youtube](https://www.youtube.com/playlist?list=PLR2qQy0Zxs_VlZtvRBWqOyP0VYHrP4_8n) |
 
+## Fourth Phase
+| Sr no. | Title | link |
+| ----- | ----- | ----- |
+| 30. | Async Programming (Must) | [Youtube](https://youtu.be/JJ4MvlXooCU) |
+| 31. | Semantic Versioning (Optional) | [Youtube](https://youtu.be/iua7TjbeRHA) |
+| 32. | Dart LINQ | [Youtube](https://youtu.be/m9_HpEGOOFU) |
+| 33. | Clipping (Optional) | [Youtube](https://youtu.be/fqqY3NBVVHA) |
+| 34. | Curve Clipping (Optional) | [Youtube](https://youtu.be/LnUhNTUl3Mc) |
+| 35. | Build first package | [Youtube](https://youtu.be/iOqtl8-iDE0) |
+| 36. | Signature App with Cutompainter | [Youtube](https://youtu.be/zu-do2luSAo) |
+| 37. | Internet Connectivity (Must) | [Youtube](https://youtu.be/QxE-hEa16gA) |
+| 38. | Expandable And Sticky Headers List (Optional) | [Youtube](https://youtu.be/vDgdzfcFBy0) |
+| 39. | QRCode Scanner App (Optional) | [Youtube](https://youtu.be/siuJhQ9BqsU) |
+| 40. | Google Static Maps (Optional) | [Youtube](https://youtu.be/2PVHzuuN9Ww) |
+| 41. | Build your first Plugin | [Youtube](https://youtu.be/TZRpCGQsBCw) |
+| 42. | MLKit Tutorial (Optional) | [Youtube](https://youtu.be/vT6gNFE0GBw) |
+| 43. | Download Large Files/ Json/ Pdf (Must) | [Youtube](https://youtu.be/Gru7swUQqsg) |
+| 44. | Material Search Bar (Must) | [Youtube](https://youtu.be/FPcl1tu0gDs) |
+| 45. | Inherited Widgets &amp; Scoped model (Must) | [Youtube](https://youtu.be/j-27MZwRbFw) |
+| 46. | BloC Pattern on WhiteBoard (Must) | [Youtube](https://youtu.be/LSljItPM_UE) |
+| 47. | Bloc Pattern Demo | [Youtube](https://youtu.be/_6yXf7kcA8A) |
+| 48. | Face ID &amp; Touch ID | [Youtube](https://youtu.be/w0-UB7rx8TA) |
+| 49. | Preventing Screenshots | [Youtube](https://youtu.be/iVNTTX5GrUc) |
+| 50. | Gmail Like FAB (Optional) | [Youtube](https://youtu.be/fiOAAiZ41Zs) |
+
+
 ## Apps List
 | App name | Type |
 | --- | --- |
