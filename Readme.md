@@ -34,6 +34,14 @@
 | 23. | Access Camera (Optional) |  [Youtube](https://youtu.be/ZkpHzbOm-s0) |
 | 24. | Real Splash Screen Tutorial |  [Youtube](https://youtu.be/BjV4RMkVY6w) |
 
+## Third Phase
+| Sr no. | Title | link |
+| ----- | ----- | ----- |
+| 25. | DevFest App Series (Must) (Must) | [Youtube](https://www.youtube.com/playlist?list=PLR2qQy0Zxs_Vju3tKnYgzbAhywHHPuDjQ) |
+| 26. | Flutter Animations | [Youtube](https://www.youtube.com/playlist?list=PLR2qQy0Zxs_XxsqomPw6ka7F0Q76FQnWx) |
+| 27. | Flutter Weekly Widgets (Must) | [Youtube](https://www.youtube.com/playlist?list=PLR2qQy0Zxs_Wot7YfLeeKdMlJ9838C_w0) |
+| 28. | Flutter With Firebase (Updated Series coming soon) | [Youtube](https://www.youtube.com/playlist?list=PLR2qQy0Zxs_VVyTb04FzZ2_lnhSB4rAI-) |
+| 29. | Flutter Wallpaper App (Learn to deploy to stores) (Must) | [Youtube](https://www.youtube.com/playlist?list=PLR2qQy0Zxs_VlZtvRBWqOyP0VYHrP4_8n) |
 
 ## Apps List
 | App name | Type |
