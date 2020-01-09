@@ -68,6 +68,25 @@
 | 49. | Preventing Screenshots | [Youtube](https://youtu.be/iVNTTX5GrUc) |
 | 50. | Gmail Like FAB (Optional) | [Youtube](https://youtu.be/fiOAAiZ41Zs) |
 
+## Fifth Phase
+| Sr no. | Title | link |
+| ----- | ----- | ----- |
+| 51. | StackOverflow App (Must) | [Youtube](https://youtu.be/-MBWdZ1u8tQ) |
+| 52. | ARCore Flutter | [Youtube](https://youtu.be/Gf-Qu29RLUo) |
+| 53. | ARKit Flutter | [Youtube](https://youtu.be/aHgzAfwxMQk) |
+| 54. | Flutter PDF Viewer Tutorial | [Youtube](https://youtu.be/5S9qjreGFNc) |
+| 55. | Background Fetch (Must) | [Youtube](https://youtu.be/NhlPK10_k9E) |
+| 56. | Click, Pick, Crop &amp; Compress an image (Must) | [Youtube](https://youtu.be/NhlPK10_k9E) |
+| 57. | Flutter App Bundle (Must) (Must) | [Youtube](https://youtu.be/dRbmjsqERVw) |
+| 58. | Lazy Loading ListViews | [Youtube](https://youtu.be/JaVjHDdoVOg) |
+| 59. | Styling google maps | [Youtube](https://youtu.be/LWAAOyQknvY) |
+| 60. | Widgets size and position using Render Object (Must) | [Youtube](https://youtu.be/_uMLR7D4npE) |
+| 61. | Flutter TensorFlow Lite | [Youtube](https://youtu.be/0pYh7Js4GM8) |
+| 62. | Flutter For Web &amp; Desktop (Must) | [Youtube](https://youtu.be/l4myDi8hiQs) |
+| 63. | Flutter Windows Desktop (Must) | [Youtube](https://youtu.be/1bkcq3lO900) |
+| 64. | Flutter Responsive Portfolio App (Must) | [Youtube](https://youtu.be/QAHqlsAky_4) |
+| 65. | Deploying to Github pages | [Youtube](https://youtu.be/ajSliNbczi0) |
+| 66. | Flutter Library of the week (Must) | [Youtube](https://www.youtube.com/playlist?list=PLR2qQy0Zxs_UXyXHjtMba2AaVb3pLOHJb) |
 
 ## Apps List
 | App name | Type |
